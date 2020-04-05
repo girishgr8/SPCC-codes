@@ -1,0 +1,5 @@
+E -> TX
+X -> +TX | e
+T -> FY
+Y -> *FY | e
+F -> (E) | i
