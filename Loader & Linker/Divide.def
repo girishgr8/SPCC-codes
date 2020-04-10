@@ -1,0 +1,4 @@
+LIBRARY Divide.dll
+
+EXPORTS
+Java_Utility_divide
